@@ -1,0 +1,853 @@
+INFO - 2025-06-27 14:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 14:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 14:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:44:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:45:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 15:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 18:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 18:36:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 18:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 18:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 18:49:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 18:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 18:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 18:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 18:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:06:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:10:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 19:22:23 --> ErrorException: Undefined property: stdClass::$produser
+in APPPATH\Views\forms.php on line 55.
+ 1 APPPATH\Views\forms.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$produser', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms.php', 55)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms', [], true)
+ 5 APPPATH\Controllers\form.php(14): view('forms', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->input()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 19:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 19:26:18 --> ErrorException: Undefined variable $infoltp
+in APPPATH\Views\forms.php on line 31.
+ 1 APPPATH\Views\forms.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $infoltp', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms.php', 31)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms', [], true)
+ 5 APPPATH\Controllers\form.php(14): view('forms', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->input()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 19:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 19:28:26 --> ErrorException: Undefined variable $jenisltp
+in APPPATH\Views\forms.php on line 31.
+ 1 APPPATH\Views\forms.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenisltp', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms.php', 31)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms', [], true)
+ 5 APPPATH\Controllers\form.php(14): view('forms', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->input()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 19:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:36:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 19:36:18 --> ErrorException: Undefined property: stdClass::$id
+in APPPATH\Views\info_laptop.php on line 62.
+ 1 APPPATH\Views\info_laptop.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\info_laptop.php', 62)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\info_laptop.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('info_laptop', [], true)
+ 5 APPPATH\Controllers\laptop.php(14): view('info_laptop', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\laptop->info()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\laptop))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 19:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:36:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 19:36:26 --> ErrorException: Undefined property: stdClass::$id
+in APPPATH\Views\info_laptop.php on line 62.
+ 1 APPPATH\Views\info_laptop.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\info_laptop.php', 62)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\info_laptop.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('info_laptop', [], true)
+ 5 APPPATH\Controllers\laptop.php(14): view('info_laptop', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\laptop->info()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\laptop))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 19:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 19:37:31 --> ErrorException: Undefined property: stdClass::$id
+in APPPATH\Views\info_laptop.php on line 62.
+ 1 APPPATH\Views\info_laptop.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\info_laptop.php', 62)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\info_laptop.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('info_laptop', [], true)
+ 5 APPPATH\Controllers\laptop.php(14): view('info_laptop', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\laptop->info()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\laptop))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 19:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 19:39:16 --> ErrorException: Undefined variable $transaction
+in APPPATH\Views\forms_edit.php on line 18.
+ 1 APPPATH\Views\forms_edit.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $transaction', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 18)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 19:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:55:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 19:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 19:58:42 --> ErrorException: Undefined variable $transaction
+in APPPATH\Views\forms_edit.php on line 28.
+ 1 APPPATH\Views\forms_edit.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $transaction', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:03:19 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:03:33 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:05:41 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:06:12 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 20:06:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 20:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 20:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:06:36 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:07:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:07:19 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:07:20 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:07:20 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:07:20 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:07:21 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:07:21 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:07:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:07:52 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:07:53 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:07:53 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:08:51 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:09:26 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:10:08 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:10:26 --> ErrorException: Undefined variable $transaction
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $transaction', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:11:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:11:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:11:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:11:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:11:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:11:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:11:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:11:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:11:49 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:11:52 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:11:59 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:12:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:12:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:12:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:12:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:12:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:12:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:12:34 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:13:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:13:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:13:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:13:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:13:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:13:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:13:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:14:18 --> ErrorException: Attempt to read property "nama" on array
+in APPPATH\Views\forms_edit.php on line 16.
+ 1 APPPATH\Views\forms_edit.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:14:27 --> ErrorException: Attempt to read property "nama" on array
+in APPPATH\Views\forms_edit.php on line 16.
+ 1 APPPATH\Views\forms_edit.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:14:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:14:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:14:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:14:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:14:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:14:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:14:39 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 91.
+ 1 APPPATH\Controllers\form.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Controllers\\form.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-27 20:15:51 --> ErrorException: Undefined variable $transaction
+in APPPATH\Views\forms_edit.php on line 18.
+ 1 APPPATH\Views\forms_edit.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $transaction', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 18)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:28:04 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:28:48 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:28:58 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:28:58 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:28:59 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:28:59 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:28:59 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 20:29:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 20:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 20:29:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-27 20:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:29:06 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:29:24 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:30:44 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:31:48 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:31:49 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:31:49 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:32:00 --> ErrorException: Attempt to read property "id_jenis" on array
+in APPPATH\Views\forms_edit.php on line 22.
+ 1 APPPATH\Views\forms_edit.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:33:19 --> ErrorException: Attempt to read property "jenis" on array
+in APPPATH\Views\forms_edit.php on line 32.
+ 1 APPPATH\Views\forms_edit.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 32)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:36:23 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 43.
+ 1 APPPATH\Views\forms_edit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:37:51 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 44.
+ 1 APPPATH\Views\forms_edit.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 44)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-27 20:39:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-27 20:39:54 --> ErrorException: Attempt to read property "produser" on string
+in APPPATH\Views\forms_edit.php on line 44.
+ 1 APPPATH\Views\forms_edit.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "produser" on string', 'C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php', 44)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\aplikasi-info-laptop-pky\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(93): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('Apple Macbook Pro 16 (M2 Pro)')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

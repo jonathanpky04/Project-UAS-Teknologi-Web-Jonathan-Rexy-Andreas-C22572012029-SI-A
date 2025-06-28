@@ -1,0 +1,1717 @@
+CRITICAL - 2025-06-13 12:00:55 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Views\pemasukan.php on line 52.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pemasukan', [], true)
+ 4 APPPATH\Controllers\tables.php(13): view('pemasukan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\tables->pemasukan()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tables))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 12:01:19 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Views\pemasukan.php on line 52.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pemasukan', [], true)
+ 4 APPPATH\Controllers\tables.php(13): view('pemasukan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\tables->pemasukan()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tables))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 12:01:33 --> ErrorException: Undefined variable $foto
+in APPPATH\Views\pemasukan.php on line 52.
+ 1 APPPATH\Views\pemasukan.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $foto', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\pemasukan.php', 52)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\pemasukan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pemasukan', [], true)
+ 5 APPPATH\Controllers\tables.php(13): view('pemasukan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\tables->pemasukan()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tables))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 12:02:31 --> ErrorException: Undefined variable $foto
+in APPPATH\Views\pemasukan.php on line 52.
+ 1 APPPATH\Views\pemasukan.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $foto', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\pemasukan.php', 52)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\pemasukan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pemasukan', [], true)
+ 5 APPPATH\Controllers\tables.php(13): view('pemasukan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\tables->pemasukan()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tables))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 12:03:06 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Views\pemasukan.php on line 52.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pemasukan', [], true)
+ 4 APPPATH\Controllers\tables.php(13): view('pemasukan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\tables->pemasukan()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tables))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 12:05:14 --> ParseError: syntax error, unexpected token "else"
+in APPPATH\Views\pemasukan.php on line 54.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pemasukan', [], true)
+ 3 APPPATH\Controllers\tables.php(13): view('pemasukan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\tables->pemasukan()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tables))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 12:06:44 --> ErrorException: Undefined variable $foto
+in APPPATH\Views\pemasukan.php on line 52.
+ 1 APPPATH\Views\pemasukan.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $foto', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\pemasukan.php', 52)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\pemasukan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pemasukan', [], true)
+ 5 APPPATH\Controllers\tables.php(13): view('pemasukan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\tables->pemasukan()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tables))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 12:07:12 --> ErrorException: Undefined variable $foto
+in APPPATH\Views\pengeluaran.php on line 50.
+ 1 APPPATH\Views\pengeluaran.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $foto', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\pengeluaran.php', 50)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\pengeluaran.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pengeluaran', [], true)
+ 5 APPPATH\Controllers\tables.php(17): view('pengeluaran', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\tables->pengeluaran()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tables))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 12:09:20 --> ErrorException: Undefined variable $foto
+in APPPATH\Views\pengeluaran.php on line 50.
+ 1 APPPATH\Views\pengeluaran.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $foto', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\pengeluaran.php', 50)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\pengeluaran.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pengeluaran', [], true)
+ 5 APPPATH\Controllers\tables.php(17): view('pengeluaran', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\tables->pengeluaran()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tables))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 12:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 12:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 12:25:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 12:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:01:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:18:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:18:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:26:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:26:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:28:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:28:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:38:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:57:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:58:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:59:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 14:59:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:16:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:22:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 15:22:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_edit.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_edit.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('form_edit', [], true)
+ 3 APPPATH\Controllers\form.php(74): view('form_edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('6')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 15:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 15:25:10 --> ErrorException: Attempt to read property "jenis" on array
+in APPPATH\Views\forms_edit.php on line 18.
+ 1 APPPATH\Views\forms_edit.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 18)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('6')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 15:25:31 --> ErrorException: Attempt to read property "jenis" on array
+in APPPATH\Views\forms_edit.php on line 18.
+ 1 APPPATH\Views\forms_edit.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 18)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('6')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 15:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 15:25:34 --> ErrorException: Attempt to read property "jenis" on array
+in APPPATH\Views\forms_edit.php on line 18.
+ 1 APPPATH\Views\forms_edit.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 18)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('6')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 15:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:26:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 15:33:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 15:50:44 --> ParseError: syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+in APPPATH\Views\forms_edit.php on line 57.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 3 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('7')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 15:52:23 --> ParseError: syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+in APPPATH\Views\forms_edit.php on line 58.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 3 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('7')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 15:53:14 --> ParseError: syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+in APPPATH\Views\forms_edit.php on line 58.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 3 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('7')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 15:53:20 --> ErrorException: Attempt to read property "jenis" on array
+in APPPATH\Views\forms_edit.php on line 18.
+ 1 APPPATH\Views\forms_edit.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 18)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 15:57:04 --> ErrorException: Attempt to read property "jenis" on array
+in APPPATH\Views\forms_edit.php on line 18.
+ 1 APPPATH\Views\forms_edit.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 18)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 15:57:08 --> ErrorException: Attempt to read property "jenis" on array
+in APPPATH\Views\forms_edit.php on line 18.
+ 1 APPPATH\Views\forms_edit.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jenis" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 18)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 15:58:19 --> ErrorException: Attempt to read property "tgl" on array
+in APPPATH\Views\forms_edit.php on line 24.
+ 1 APPPATH\Views\forms_edit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "tgl" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 15:59:26 --> ErrorException: Attempt to read property "idtr" on array
+in APPPATH\Views\forms_edit.php on line 46.
+ 1 APPPATH\Views\forms_edit.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "idtr" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 46)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:00:59 --> ErrorException: Attempt to read property "tgl" on array
+in APPPATH\Views\forms_edit.php on line 24.
+ 1 APPPATH\Views\forms_edit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "tgl" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 16:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 16:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 16:04:41 --> ErrorException: Attempt to read property "tgl" on array
+in APPPATH\Views\forms_edit.php on line 24.
+ 1 APPPATH\Views\forms_edit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "tgl" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('6')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:10:39 --> ErrorException: Attempt to read property "tgl" on array
+in APPPATH\Views\forms_edit.php on line 24.
+ 1 APPPATH\Views\forms_edit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "tgl" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('6')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:11:51 --> ErrorException: Attempt to read property "tgl" on array
+in APPPATH\Views\forms_edit.php on line 24.
+ 1 APPPATH\Views\forms_edit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "tgl" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('6')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:13:10 --> ErrorException: Attempt to read property "tgl" on array
+in APPPATH\Views\forms_edit.php on line 24.
+ 1 APPPATH\Views\forms_edit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "tgl" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('6')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 16:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 16:18:47 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:18:47 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:18:48 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:18:48 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:18:48 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:18:48 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:18:48 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:18:56 --> ErrorException: Attempt to read property "tgl" on array
+in APPPATH\Views\forms_edit.php on line 24.
+ 1 APPPATH\Views\forms_edit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "tgl" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('6')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:18:56 --> ErrorException: Attempt to read property "tgl" on array
+in APPPATH\Views\forms_edit.php on line 24.
+ 1 APPPATH\Views\forms_edit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "tgl" on array', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Views\\forms_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('forms_edit', [], true)
+ 5 APPPATH\Controllers\form.php(74): view('forms_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('6')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:19:21 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:19:21 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:19:21 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:19:21 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:19:21 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:19:21 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:19:21 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:31 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:31 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:31 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:31 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:31 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:32 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:32 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:38 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:43 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 16:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 16:20:51 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:51 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:51 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:51 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:51 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:51 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:51 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 16:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 16:20:56 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:56 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:56 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:56 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:56 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:56 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:20:56 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 16:21:07 --> ErrorException: mkdir(): No such file or directory
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No such file or directory', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\system\\HTTP\\Files\\UploadedFile.php', 185)
+ 2 SYSTEMPATH\HTTP\Files\UploadedFile.php(185): mkdir('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/', 511, true)
+ 3 SYSTEMPATH\HTTP\Files\UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 4 APPPATH\Controllers\form.php(90): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->update()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:22 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:22 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:22 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:22 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:22 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:23 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:23 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:30 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:36 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:36 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:36 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:36 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:36 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:36 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:36 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:21:59 --> ErrorException: mkdir(): No such file or directory
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No such file or directory', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\system\\HTTP\\Files\\UploadedFile.php', 185)
+ 2 SYSTEMPATH\HTTP\Files\UploadedFile.php(185): mkdir('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/', 511, true)
+ 3 SYSTEMPATH\HTTP\Files\UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 4 APPPATH\Controllers\form.php(90): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->update()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:42 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:42 --> ErrorException: mkdir(): No such file or directory
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No such file or directory', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\system\\HTTP\\Files\\UploadedFile.php', 185)
+ 2 SYSTEMPATH\HTTP\Files\UploadedFile.php(185): mkdir('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/', 511, true)
+ 3 SYSTEMPATH\HTTP\Files\UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 4 APPPATH\Controllers\form.php(90): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->update()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:44 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:44 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:44 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:44 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:44 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:44 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:44 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:23:46 --> ErrorException: mkdir(): No such file or directory
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No such file or directory', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\system\\HTTP\\Files\\UploadedFile.php', 185)
+ 2 SYSTEMPATH\HTTP\Files\UploadedFile.php(185): mkdir('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/', 511, true)
+ 3 SYSTEMPATH\HTTP\Files\UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 4 APPPATH\Controllers\form.php(90): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->update()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:05 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:05 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:05 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:05 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:05 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:05 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:05 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:06 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:06 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:06 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:06 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:06 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:06 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:06 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:28:23 --> ErrorException: mkdir(): No such file or directory
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No such file or directory', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\system\\HTTP\\Files\\UploadedFile.php', 185)
+ 2 SYSTEMPATH\HTTP\Files\UploadedFile.php(185): mkdir('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/', 511, true)
+ 3 SYSTEMPATH\HTTP\Files\UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 4 APPPATH\Controllers\form.php(92): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->update()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:23 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:23 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:23 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:23 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:23 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:23 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:23 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:24 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:24 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:25 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:25 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:25 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:25 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:25 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:32:41 --> ErrorException: mkdir(): No such file or directory
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No such file or directory', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\system\\HTTP\\Files\\UploadedFile.php', 185)
+ 2 SYSTEMPATH\HTTP\Files\UploadedFile.php(185): mkdir('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/', 511, true)
+ 3 SYSTEMPATH\HTTP\Files\UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 4 APPPATH\Controllers\form.php(92): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/transfer-pemasukan-(1).jpg/')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->update()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:12 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:12 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:12 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:12 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:12 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:12 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:12 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:16 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:16 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:16 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:16 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:16 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:16 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 18:35:16 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 73.
+ 1 APPPATH\Controllers\form.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 18:35:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 18:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 18:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 18:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 18:57:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 18:58:02 --> ErrorException: mkdir(): No such file or directory
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No such file or directory', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\system\\HTTP\\Files\\UploadedFile.php', 185)
+ 2 SYSTEMPATH\HTTP\Files\UploadedFile.php(185): mkdir('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/SPP-Kuliah-(1)_1.jpg/', 511, true)
+ 3 SYSTEMPATH\HTTP\Files\UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/SPP-Kuliah-(1)_1.jpg/')
+ 4 APPPATH\Controllers\form.php(30): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\public\\uploads/SPP-Kuliah-(1)_1.jpg/')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 18:59:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 18:59:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 18:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-13 19:00:07 --> mysqli_sql_exception: Column 'foto' cannot be null in C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tr...', 0)
+#1 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\app\Models\DML.php(22): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\app\Controllers\form.php(51): App\models\DML->dataInsert('transaction', Array)
+#6 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\CodeIgniter.php(941): App\Controllers\form->simpan()
+#7 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+#8 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-06-13 19:00:07 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'foto' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (:jenis:, :tgl:, :deskripsi:, :jumlah:, :foto:)', [...], false)
+ 2 APPPATH\Models\DML.php(22): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\form.php(51): App\models\DML->dataInsert('transaction', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:00:07 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'foto' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (\'Pemasukan\', \'2025-06-14\', \'Pemasukan dari Beasiswa\', \'Rp 1.500.000\', NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (\'Pemasukan\', \'2025-06-14\', \'Pemasukan dari Beasiswa\', \'Rp 1.500.000\', NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (:jenis:, :tgl:, :deskripsi:, :jumlah:, :foto:)', [...], false)
+ 4 APPPATH\Models\DML.php(22): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\form.php(51): App\models\DML->dataInsert('transaction', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->simpan()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:00:07 --> [Caused by] mysqli_sql_exception: Column 'foto' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (\'Pemasukan\', \'2025-06-14\', \'Pemasukan dari Beasiswa\', \'Rp 1.500.000\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (\'Pemasukan\', \'2025-06-14\', \'Pemasukan dari Beasiswa\', \'Rp 1.500.000\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (\'Pemasukan\', \'2025-06-14\', \'Pemasukan dari Beasiswa\', \'Rp 1.500.000\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (:jenis:, :tgl:, :deskripsi:, :jumlah:, :foto:)', [...], false)
+ 5 APPPATH\Models\DML.php(22): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\form.php(51): App\models\DML->dataInsert('transaction', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->simpan()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 19:00:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:00:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:01:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:03:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:06:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:06:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:06:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-13 19:10:12 --> mysqli_sql_exception: Column 'foto' cannot be null in C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tr...', 0)
+#1 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\app\Models\DML.php(22): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\app\Controllers\form.php(60): App\models\DML->dataInsert('transaction', Array)
+#6 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\CodeIgniter.php(941): App\Controllers\form->simpan()
+#7 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+#8 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\Project_Codeigniter\app-cashflow_copy\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-06-13 19:10:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'foto' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (:jenis:, :tgl:, :deskripsi:, :jumlah:, :foto:)', [...], false)
+ 2 APPPATH\Models\DML.php(22): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\form.php(60): App\models\DML->dataInsert('transaction', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:10:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'foto' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (\'Pemasukan\', \'2025-06-14\', \'Gaji Mingguan ke-3 (Juni)\', \'Rp 1.000.000\', NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (\'Pemasukan\', \'2025-06-14\', \'Gaji Mingguan ke-3 (Juni)\', \'Rp 1.000.000\', NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (:jenis:, :tgl:, :deskripsi:, :jumlah:, :foto:)', [...], false)
+ 4 APPPATH\Models\DML.php(22): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\form.php(60): App\models\DML->dataInsert('transaction', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->simpan()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:10:12 --> [Caused by] mysqli_sql_exception: Column 'foto' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (\'Pemasukan\', \'2025-06-14\', \'Gaji Mingguan ke-3 (Juni)\', \'Rp 1.000.000\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (\'Pemasukan\', \'2025-06-14\', \'Gaji Mingguan ke-3 (Juni)\', \'Rp 1.000.000\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (\'Pemasukan\', \'2025-06-14\', \'Gaji Mingguan ke-3 (Juni)\', \'Rp 1.000.000\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaction` (`jenis`, `tgl`, `deskripsi`, `jumlah`, `foto`) VALUES (:jenis:, :tgl:, :deskripsi:, :jumlah:, :foto:)', [...], false)
+ 5 APPPATH\Models\DML.php(22): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\form.php(60): App\models\DML->dataInsert('transaction', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->simpan()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 19:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:12:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:17:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:33:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:34:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:41:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 19:50:03 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:50:03 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:50:03 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:50:03 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:50:03 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:50:03 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:50:03 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 19:50:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:58:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 19:58:24 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:58:24 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:58:24 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:58:24 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:58:24 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:58:24 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 19:58:24 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 19:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:58:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 19:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 20:03:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 20:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 20:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 20:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 20:03:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-13 20:04:02 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'kaiadmin', 'logo_light.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 20:04:02 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'jm_denis.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 20:04:02 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'chadengle.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 20:04:02 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 20:04:02 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'mlane.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 20:04:02 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'talha.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-13 20:04:02 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\form.php on line 86.
+ 1 APPPATH\Controllers\form.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Project_Codeigniter\\app-cashflow_copy\\app\\Controllers\\form.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\form->edit('assets', 'img', 'profile.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\form))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-13 20:04:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 20:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 20:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 20:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

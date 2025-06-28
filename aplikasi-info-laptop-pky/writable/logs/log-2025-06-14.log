@@ -1,0 +1,326 @@
+CRITICAL - 2025-06-14 13:37:35 --> Error: Class "Dompdf\Options" not found
+in APPPATH\Libraries\Printpdf.php on line 9.
+ 1 APPPATH\Controllers\document.php(23): App\Libraries\Printpdf->buatPDF('<!-- DEBUG-VIEW START 1 APPPATH\\Views\\dokumen.php -->
+<style>
+    table {width: 100%}
+    table, thead, tbody, th, td{
+        border-collapse: collapse;
+        border: 1px solid #000;
+        padding: 3px;
+    }
+    h1 {
+        text-align: center;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #000 ;
+        margin-bottom: 30px;
+    }
+</style>
+
+    <h1>Dokumen Transaksi</h1>
+    <table>
+        <thead>
+            <tr>ID Transaksi</tr>
+            <tr>Jenis Transaksi</tr>
+            <tr>Tanggal Transaksi</tr>
+            <tr>Deskripsi</tr>
+            <tr>Jumlah</tr>
+            <tr>Foto</tr>
+        </thead>
+        <tbody>
+                        <tr>36</tr>
+            <tr>Pemasukan</tr>
+            <tr>2025-06-10</tr>
+            <tr>Gaji Mingguan ke-3 (Juni)</tr>
+            <tr>Rp 1.000.000,00</tr>
+            <tr>                <img src="http://localhost/Project_Codeigniter/app-cashflow_copy/public/uploadstransfer-pemasukan-(1).jpg" width="100" alt="foto">
+                                </tr>
+                    </tbody>
+    </table>
+<!-- DEBUG-VIEW ENDED 1 APPPATH\\Views\\dokumen.php -->
+', 'Data Transaksi Pengeluaran', 'A4', 'portrait')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\document->pmpdf()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\document))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-14 13:38:43 --> Error: Class "Dompdf\Options" not found
+in APPPATH\Libraries\Printpdf.php on line 9.
+ 1 APPPATH\Controllers\document.php(23): App\Libraries\Printpdf->buatPDF('<!-- DEBUG-VIEW START 1 APPPATH\\Views\\dokumen.php -->
+<style>
+    table {width: 100%}
+    table, thead, tbody, th, td{
+        border-collapse: collapse;
+        border: 1px solid #000;
+        padding: 3px;
+    }
+    h1 {
+        text-align: center;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #000 ;
+        margin-bottom: 30px;
+    }
+</style>
+
+    <h1>Dokumen Transaksi</h1>
+    <table>
+        <thead>
+            <tr>ID Transaksi</tr>
+            <tr>Jenis Transaksi</tr>
+            <tr>Tanggal Transaksi</tr>
+            <tr>Deskripsi</tr>
+            <tr>Jumlah</tr>
+            <tr>Foto</tr>
+        </thead>
+        <tbody>
+                        <tr>36</tr>
+            <tr>Pemasukan</tr>
+            <tr>2025-06-10</tr>
+            <tr>Gaji Mingguan ke-3 (Juni)</tr>
+            <tr>Rp 1.000.000,00</tr>
+            <tr>                <img src="http://localhost/Project_Codeigniter/app-cashflow_copy/public/uploadstransfer-pemasukan-(1).jpg" width="100" alt="foto">
+                                </tr>
+                    </tbody>
+    </table>
+<!-- DEBUG-VIEW ENDED 1 APPPATH\\Views\\dokumen.php -->
+', 'Data Transaksi Pengeluaran', 'A4', 'portrait')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\document->pmpdf()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\document))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-14 13:38:44 --> Error: Class "Dompdf\Options" not found
+in APPPATH\Libraries\Printpdf.php on line 9.
+ 1 APPPATH\Controllers\document.php(23): App\Libraries\Printpdf->buatPDF('<!-- DEBUG-VIEW START 1 APPPATH\\Views\\dokumen.php -->
+<style>
+    table {width: 100%}
+    table, thead, tbody, th, td{
+        border-collapse: collapse;
+        border: 1px solid #000;
+        padding: 3px;
+    }
+    h1 {
+        text-align: center;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #000 ;
+        margin-bottom: 30px;
+    }
+</style>
+
+    <h1>Dokumen Transaksi</h1>
+    <table>
+        <thead>
+            <tr>ID Transaksi</tr>
+            <tr>Jenis Transaksi</tr>
+            <tr>Tanggal Transaksi</tr>
+            <tr>Deskripsi</tr>
+            <tr>Jumlah</tr>
+            <tr>Foto</tr>
+        </thead>
+        <tbody>
+                        <tr>36</tr>
+            <tr>Pemasukan</tr>
+            <tr>2025-06-10</tr>
+            <tr>Gaji Mingguan ke-3 (Juni)</tr>
+            <tr>Rp 1.000.000,00</tr>
+            <tr>                <img src="http://localhost/Project_Codeigniter/app-cashflow_copy/public/uploadstransfer-pemasukan-(1).jpg" width="100" alt="foto">
+                                </tr>
+                    </tbody>
+    </table>
+<!-- DEBUG-VIEW ENDED 1 APPPATH\\Views\\dokumen.php -->
+', 'Data Transaksi Pengeluaran', 'A4', 'portrait')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\document->pmpdf()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\document))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-14 13:38:44 --> Error: Class "Dompdf\Options" not found
+in APPPATH\Libraries\Printpdf.php on line 9.
+ 1 APPPATH\Controllers\document.php(23): App\Libraries\Printpdf->buatPDF('<!-- DEBUG-VIEW START 1 APPPATH\\Views\\dokumen.php -->
+<style>
+    table {width: 100%}
+    table, thead, tbody, th, td{
+        border-collapse: collapse;
+        border: 1px solid #000;
+        padding: 3px;
+    }
+    h1 {
+        text-align: center;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #000 ;
+        margin-bottom: 30px;
+    }
+</style>
+
+    <h1>Dokumen Transaksi</h1>
+    <table>
+        <thead>
+            <tr>ID Transaksi</tr>
+            <tr>Jenis Transaksi</tr>
+            <tr>Tanggal Transaksi</tr>
+            <tr>Deskripsi</tr>
+            <tr>Jumlah</tr>
+            <tr>Foto</tr>
+        </thead>
+        <tbody>
+                        <tr>36</tr>
+            <tr>Pemasukan</tr>
+            <tr>2025-06-10</tr>
+            <tr>Gaji Mingguan ke-3 (Juni)</tr>
+            <tr>Rp 1.000.000,00</tr>
+            <tr>                <img src="http://localhost/Project_Codeigniter/app-cashflow_copy/public/uploadstransfer-pemasukan-(1).jpg" width="100" alt="foto">
+                                </tr>
+                    </tbody>
+    </table>
+<!-- DEBUG-VIEW ENDED 1 APPPATH\\Views\\dokumen.php -->
+', 'Data Transaksi Pengeluaran', 'A4', 'portrait')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\document->pmpdf()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\document))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-14 13:38:45 --> Error: Class "Dompdf\Options" not found
+in APPPATH\Libraries\Printpdf.php on line 9.
+ 1 APPPATH\Controllers\document.php(23): App\Libraries\Printpdf->buatPDF('<!-- DEBUG-VIEW START 1 APPPATH\\Views\\dokumen.php -->
+<style>
+    table {width: 100%}
+    table, thead, tbody, th, td{
+        border-collapse: collapse;
+        border: 1px solid #000;
+        padding: 3px;
+    }
+    h1 {
+        text-align: center;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #000 ;
+        margin-bottom: 30px;
+    }
+</style>
+
+    <h1>Dokumen Transaksi</h1>
+    <table>
+        <thead>
+            <tr>ID Transaksi</tr>
+            <tr>Jenis Transaksi</tr>
+            <tr>Tanggal Transaksi</tr>
+            <tr>Deskripsi</tr>
+            <tr>Jumlah</tr>
+            <tr>Foto</tr>
+        </thead>
+        <tbody>
+                        <tr>36</tr>
+            <tr>Pemasukan</tr>
+            <tr>2025-06-10</tr>
+            <tr>Gaji Mingguan ke-3 (Juni)</tr>
+            <tr>Rp 1.000.000,00</tr>
+            <tr>                <img src="http://localhost/Project_Codeigniter/app-cashflow_copy/public/uploadstransfer-pemasukan-(1).jpg" width="100" alt="foto">
+                                </tr>
+                    </tbody>
+    </table>
+<!-- DEBUG-VIEW ENDED 1 APPPATH\\Views\\dokumen.php -->
+', 'Data Transaksi Pengeluaran', 'A4', 'portrait')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\document->pmpdf()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\document))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-14 13:38:45 --> Error: Class "Dompdf\Options" not found
+in APPPATH\Libraries\Printpdf.php on line 9.
+ 1 APPPATH\Controllers\document.php(23): App\Libraries\Printpdf->buatPDF('<!-- DEBUG-VIEW START 1 APPPATH\\Views\\dokumen.php -->
+<style>
+    table {width: 100%}
+    table, thead, tbody, th, td{
+        border-collapse: collapse;
+        border: 1px solid #000;
+        padding: 3px;
+    }
+    h1 {
+        text-align: center;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #000 ;
+        margin-bottom: 30px;
+    }
+</style>
+
+    <h1>Dokumen Transaksi</h1>
+    <table>
+        <thead>
+            <tr>ID Transaksi</tr>
+            <tr>Jenis Transaksi</tr>
+            <tr>Tanggal Transaksi</tr>
+            <tr>Deskripsi</tr>
+            <tr>Jumlah</tr>
+            <tr>Foto</tr>
+        </thead>
+        <tbody>
+                        <tr>36</tr>
+            <tr>Pemasukan</tr>
+            <tr>2025-06-10</tr>
+            <tr>Gaji Mingguan ke-3 (Juni)</tr>
+            <tr>Rp 1.000.000,00</tr>
+            <tr>                <img src="http://localhost/Project_Codeigniter/app-cashflow_copy/public/uploadstransfer-pemasukan-(1).jpg" width="100" alt="foto">
+                                </tr>
+                    </tbody>
+    </table>
+<!-- DEBUG-VIEW ENDED 1 APPPATH\\Views\\dokumen.php -->
+', 'Data Transaksi Pengeluaran', 'A4', 'portrait')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\document->pmpdf()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\document))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-06-14 13:38:45 --> Error: Class "Dompdf\Options" not found
+in APPPATH\Libraries\Printpdf.php on line 9.
+ 1 APPPATH\Controllers\document.php(23): App\Libraries\Printpdf->buatPDF('<!-- DEBUG-VIEW START 1 APPPATH\\Views\\dokumen.php -->
+<style>
+    table {width: 100%}
+    table, thead, tbody, th, td{
+        border-collapse: collapse;
+        border: 1px solid #000;
+        padding: 3px;
+    }
+    h1 {
+        text-align: center;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #000 ;
+        margin-bottom: 30px;
+    }
+</style>
+
+    <h1>Dokumen Transaksi</h1>
+    <table>
+        <thead>
+            <tr>ID Transaksi</tr>
+            <tr>Jenis Transaksi</tr>
+            <tr>Tanggal Transaksi</tr>
+            <tr>Deskripsi</tr>
+            <tr>Jumlah</tr>
+            <tr>Foto</tr>
+        </thead>
+        <tbody>
+                        <tr>36</tr>
+            <tr>Pemasukan</tr>
+            <tr>2025-06-10</tr>
+            <tr>Gaji Mingguan ke-3 (Juni)</tr>
+            <tr>Rp 1.000.000,00</tr>
+            <tr>                <img src="http://localhost/Project_Codeigniter/app-cashflow_copy/public/uploadstransfer-pemasukan-(1).jpg" width="100" alt="foto">
+                                </tr>
+                    </tbody>
+    </table>
+<!-- DEBUG-VIEW ENDED 1 APPPATH\\Views\\dokumen.php -->
+', 'Data Transaksi Pengeluaran', 'A4', 'portrait')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\document->pmpdf()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\document))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-06-14 13:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:45:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:50:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:51:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:54:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 13:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-14 14:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
